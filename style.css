@@ -343,7 +343,7 @@ header {
 
 .evaluation {
     text-align: center;
-    padding: 0 8vw 4.4rem;
+    padding: 0 8vw 8rem;
     overflow: hidden;
 }
 
@@ -696,7 +696,7 @@ footer .wrapper .copyright {
     }
 
     .different {
-        padding: 3.5rem 0;
+        padding: 7rem 0;
     }
 
     .different-conteudo {
