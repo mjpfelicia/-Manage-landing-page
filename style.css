@@ -568,7 +568,7 @@ footer .wrapper .content-icons {
     padding-top: 1rem;
 }
 
-footer .wrapper .content-icons ul {
+footer .wrapper .content-icons div {
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -577,7 +577,7 @@ footer .wrapper .content-icons ul {
     padding: 0 4vw;
 }
 
-footer .wrapper .content-icons ul li {
+footer .wrapper .content-icons  li {
     list-style: none;
 }
 
